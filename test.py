@@ -16,3 +16,4 @@ fig.colorbar(im, orientation= 'horizontal')
 im = ax.imshow(img,
             cmap= 'seismic' )
 plt.show()
+print("hello")
